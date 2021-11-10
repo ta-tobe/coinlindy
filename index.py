@@ -26,7 +26,7 @@ import dash_bootstrap_components as dbc
 # # scrape_weblinks()
 
 external_stylesheets = [dbc.themes.CERULEAN]
-app = Dash(__name__, external_stylesheets=external_stylesheets)
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # # df = pd.read_csv('coin_rankings.csv')
 # df = pd.read_csv('coin_rankings_fulldata.csv', parse_dates=['Date'])
