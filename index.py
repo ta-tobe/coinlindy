@@ -29,44 +29,44 @@ external_stylesheets = [dbc.themes.CERULEAN]
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
-# # df = pd.read_csv('coin_rankings.csv')
-# df = pd.read_csv('coin_rankings_fulldata.csv', parse_dates=['Date'])
-# name_dict = pd.read_csv('ticker_name.csv')
+# df = pd.read_csv('coin_rankings.csv')
+df = pd.read_csv('coin_rankings_fulldata.csv', parse_dates=['Date'])
+name_dict = pd.read_csv('ticker_name.csv')
 
-# df = pd.merge(df, name_dict, how="left", on='label')
+df = pd.merge(df, name_dict, how="left", on='label')
 
-# # print(df); quit()
-
-
-
-# stablecoins = ['USDTTether', 'USDCUSD Coin', 'BUSDBinance USD']
-
-# df_rank = df.groupby(['Rank', 'Name']).size().reset_index().rename(columns={0: '# of Weeks'}).drop_duplicates(
-#     subset=['Name'], keep='first').sort_values(by=['Rank', '# of Weeks'], ascending=[True, False])
-
-
-# last_date = str(max(df.Date))[:10]
-
-# # print(df_rank); quit()
-
-# updated = html.Div(
-#     [
-#         html.P("Last updated: " + last_date,
-#                 style={'text-align': 'right', 'color': 'light grey'})
-#     ], className='card-title'
-# )
+# print(df); quit()
 
 
 
-# table = dbc.Table.from_dataframe(df_rank[['Rank', 'Name', '# of Weeks']], striped=True, bordered=True, hover=True)
+stablecoins = ['USDTTether', 'USDCUSD Coin', 'BUSDBinance USD']
 
-# attribution = dbc.Row(
-#     [dbc.Row([
-#         dbc.CardLink("Created by: @tc_madt", href="https://www.twitter.com/tc_madt")],
-#     ),
-#         dbc.Row([dbc.CardLink("Data Source: CoinMarketCap", href="https://coinmarketcap.com/")]),
-#     ]
-# )
+df_rank = df.groupby(['Rank', 'Name']).size().reset_index().rename(columns={0: '# of Weeks'}).drop_duplicates(
+    subset=['Name'], keep='first').sort_values(by=['Rank', '# of Weeks'], ascending=[True, False])
+
+
+last_date = str(max(df.Date))[:10]
+
+# print(df_rank); quit()
+
+updated = html.Div(
+    [
+        html.P("Last updated: " + last_date,
+                style={'text-align': 'right', 'color': 'light grey'})
+    ], className='card-title'
+)
+
+
+
+table = dbc.Table.from_dataframe(df_rank[['Rank', 'Name', '# of Weeks']], striped=True, bordered=True, hover=True)
+
+attribution = dbc.Row(
+    [dbc.Row([
+        dbc.CardLink("Created by: @tc_madt", href="https://www.twitter.com/tc_madt")],
+    ),
+        dbc.Row([dbc.CardLink("Data Source: CoinMarketCap", href="https://coinmarketcap.com/")]),
+    ]
+)
 
 title = html.Div(
     [
@@ -78,10 +78,10 @@ title = html.Div(
 )
 
 app.layout = html.Div([
-#     updated,
+    updated,
                        title,
-#                        table,
-#                        attribution
+                       table,
+                       attribution
 ]
                       ,
                       style={'margin-top': 10, 'margin-bottom': 10,
