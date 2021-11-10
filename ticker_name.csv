@@ -1,0 +1,190 @@
+,label,symbol,Name
+0,BTCBitcoin,BTC,Bitcoin
+1,XRPXRP,XRP,Ripple
+2,LTCLitecoin,LTC,Litecoin
+3,BTSBitShares,BTSB,BitShares
+4,DASHDash,DASH,Dash
+5,NXTNxt,NXT,Next
+6,DOGEDogecoin,DOGE,Dogecoin
+7,XLMStellar,XLM,Stellar
+8,MAIDMaidSafeCoin,MAID,MaidSafeCoin
+9,XPYPayCoin,XPY,PayCoin
+10,PPCPeercoin,PPC,Peercoin
+11,NMCNamecoin,NMC,Namecoin
+12,BANXBanx,BANX,Banx
+13,XCPCounterparty,XCP,Counterparty
+14,NSRNuShares,NSR,NuShares
+15,XMRMonero,XMR,Monero
+16,YBCYbCoin,YBCY,YbCoin
+17,MONAMonaCoin,MONA,MonaCoin
+18,UNITYSuperNET,UNITY,SuperNET
+19,USNBTNuBits,USNBT,NuBits
+20,ETHEthereum,ETH,Ethereum
+21,BCHBitcoin Cash,BCH,Bitcoin Cash
+22,EOSEOS,EOS,EOS
+23,BNBBinance Coin,BNB,Binance Coin
+24,USDTTether,USDT,Tether
+25,ADACardano,ADA,Cardano
+26,TRXTRON,TRXT,TRON
+27,BSVBitcoin SV,BSV,Bitcoin SV
+28,MIOTAIOTA,MIOTA,IOTA
+29,XTZTezos,XTZ,Tezos
+30,ATOMCosmos,ATOM,Cosmos
+31,ETCEthereum Classic,ETC,Ethereum Classic
+32,XEMNEM,XEM,NEM
+33,NEONeo,NEO,Neo
+34,LEOUNUS SED LEO,LEO,UNUS SED LEO
+35,LINKChainlink,LINK,KChainlink
+36,HTHuobi Token,HT,Huobi Token
+37,OMNIOmni,OMNI,Omni
+38,BLKBlackCoin,BLK,BlackCoin
+39,PTSBitShares PTS,PTS,BitShares PTS
+40,VRCVeriCoin,VRC,VeriCoin
+41,QRKQuark,QRK,Quark
+42,VTCVertcoin,VTC,Vertcoin
+43,XCXCurrency,XCX,Currency
+44,XPMPrimecoin,XPM,Primecoin
+45,ZETZetacoin,ZET,Zetacoin
+46,FTCFeathercoin,FTC,Feathercoin
+47,BCNBytecoin,BCN,Bytecoin
+48,VENVechain [Token],VENV,Vechain [Token]
+49,QTUMQtum,QTUM,Qtum
+50,ONTOntology,ONT,Ontology
+51,DAOThe DAO,DAO,The DAO
+52,STEEMSteem,STEEM,Steem
+53,LSKLisk,LSK,Lisk
+54,WAVESWaves,WAVE,Waves
+55,DGDDigixDAO,DGD,DigixDAO
+56,EMCEmercoin,EMC,Emercoin
+57,AMPHyperSpace,AMP,HyperSpace
+58,FCTFactom,FCT,Factom
+59,SCSiacoin,SC,Siacoin
+60,TAGZ5TAGZ5,TAGZ5,TAGZ5
+61,USDCUSD Coin,USDC,USD Coin
+62,CROCrypto.com Coin,CRO,Crypto.com Coin
+63,STARTStartcoin,START,Startcoin
+64,MINTMintCoin,MINT,MintCoin
+65,DOTPolkadot,DOT,Polkadot
+66,UNIUniswap,UNI,Uniswap
+67,WBTCWrapped Bitcoin,WBTC,Wrapped Bitcoin
+68,THETATHETA,THETA,THETA
+69,LUNATerra,LUNA,Terra
+70,AAVEAave,AAVE,Aave
+71,VETVeChain,VET,VeChain
+72,OMGOmiseGO,OMG,OmiseGO
+73,BCCBitConnect,BCC,BitConnect
+74,ZECZcash,ZEC,Zcash
+75,STRATStratis,STRAT,Stratis
+76,ARKArk,ARK,Ark
+77,NANONano,NANO,Nano
+78,SOLSolana,SOL,Solana
+79,AVAXAvalanche,AVAX,XAvalanche
+80,BUSDBinance USD,BUSD,Binance USD
+81,ALGOAlgorand,ALGO,Algorand
+82,MECMegacoin,MEC,Megacoin
+83,WDCWorldCoin,WDC,WorldCoin
+84,NVCNovacoin,NVC,Novacoin
+85,IFCInfinitecoin,IFC,Infinitecoin
+86,DGCDigitalcoin,DGC,Digitalcoin
+87,DVCDevcoin,DVC,Devcoin
+88,TIXTickets,TIX,Tickets
+89,RBTRimbit,RBT,Rimbit
+90,AURAuroracoin,AUR,Auroracoin
+91,TRCTerracoin,TRC,Terracoin
+92,FRCFreicoin,FRC,Freicoin
+93,CNCCHNCoin,CNC,CHNCoin
+94,YACYacoin,YAC,Yacoin
+95,BQCBBQCoin,BQC,BBQCoin
+96,IXCIxcoin,IXC,Ixcoin
+97,BTBBitBar,BTB,BitBar
+98,MNCMincoin,MNC,Mincoin
+99,GLCGoldCoin,GLC,GoldCoin
+100,MEMMemecoin,MEM,Memecoin
+101,BTEBytecoin,BTE,Bytecoin
+102,FC2FuelCoin,FC2,FuelCoin
+103,BTCDBitcoinDark,BTCD,DBitcoinDark
+104,NXTTYNxttycoin,NXTTY,Nxttycoin
+105,CANNCannabisCoin,CANN,NCannabisCoin
+106,GEMZGetGems,GEMZ,ZGetGems
+107,LKYLuckycoin,LKY,Luckycoin
+108,QORAQora,QORA,AQora
+109,SJCXStorjcoin X,SJCX,Storjcoin X
+110,DEXInstantDEX,DEX,InstantDEX
+111,AMCAmericanCoin,AMC,AmericanCoin
+112,FRKFranko,FRK,Franko
+113,ELCElacoin,ELC,Elacoin
+114,SPASpainCoin,SPA,SpainCoin
+115,MTCMarinecoin,MTC,Marinecoin
+116,RDDReddCoin,RDD,ReddCoin
+117,CLOAKCloakCoin,CLOAK,CloakCoin
+118,XSVSiliconValleyCoin [old],XSV,SiliconValleyCoin
+119,NTRNeutrino,NTR,Neutrino
+120,NXTVNXTventure,NXTV,VNXTventure
+121,BTLBitleu,BTL,Bitleu
+122,VIAViacoin,VIA,Viacoin
+123,MATICPolygon,MATIC,Polygon
+124,DAIDai,DAI,Dai
+125,SHIBSHIBA INU,SHIB,SHIBA INU
+126,FILFilecoin,FIL,Filecoin
+127,KLAYKlaytn,KLAY,Klaytn
+128,ICPInternet Computer,ICP,Internet Computer
+129,MAXMaxcoin,MAX,Maxcoin
+130,,,
+131,NETNetCoin,NET,NetCoin
+132,ANCAnoncoin,ANC,Anoncoin
+133,STOStoreum,STO,Storeum
+134,MOONMooncoin,MOON,NMooncoin
+135,BTTBitTorrent,BTT,BitTorrent
+136,ACAAcash Coin,ACA,Acash Coin
+137,COMPCompound,COMP,PCompound
+138,999999,,999
+139,APHAphroditecoin,APH,Aphroditecoin
+140,HEXHEX,HEX,HEX
+141,MINMINDOL,MIN,MINDOL
+142,MKRMaker,MKR,Maker
+143,CBXBullion,CBX,Bullion
+144,SBCStableCoin,SBCS,StableCoin
+145,CLRCopperlark,CLR,Copperlark
+146,MEXCMEXC Token,MEXC,CMEXC Token
+147,BTGBitcoin Gold,BTGB,Bitcoin Gold
+148,XVGVerge,XVG,Verge
+149,ICXICON,ICX,ICON
+150,PPTPopulous,PPT,Populous
+151,REPAugur,REP,Augur
+152,ICNIconomi,ICN,Iconomi
+153,GNTGolem,GNT,Golem
+154,ARDRArdor,ARDR,RArdor
+155,DCRDecred,DCR,Decred
+156,PIVXPIVX,PIVX,PIVX
+157,SNGLSSingularDTV,SNGLS,SingularDTV
+158,DGBDigiByte,DGB,DigiByte
+159,GAMEGameCredits,GAME,EGameCredits
+160,VERIVeritaseum,VERI,IVeritaseum
+161,HCHyperCash,HCH,yperCash
+162,PAYTenX,PAY,TenX
+163,GNOGnosis,GNO,Gnosis
+164,SDCShadowCash,SDC,ShadowCash
+165,SCNSwiscoin,SCN,Swiscoin
+166,ROUNDRound,ROUND,Round
+167,TIPSFedoraCoin,TIPS,FedoraCoin
+168,RVRRevolutionVR,RVR,RevolutionVR
+169,ADCNAsiadigicoin,ADCN,Asiadigicoin
+170,NLGGulden,NLG,Gulden
+171,PPYPeerplays [old],PPY,Peerplays
+172,BCYBitCrystals,BCY,BitCrystals
+173,AGRSAgoras Tokens,AGRS,Agoras Tokens
+174,GRCGridCoin,GRC,GridCoin
+175,VASHVPNCoin,VASH,VPNCoin
+176,PXCPhoenixcoin,PXC,Phoenixcoin
+177,RBYRubycoin,RBY,Rubycoin
+178,GCRGlobal Currency Reserve,GCR,Global Currency Reserve
+179,FSTFastcoin,FST,Fastcoin
+180,TRMBTRMB,TRMB,TRMB
+181,ETCEthercoin,ETC,Ethercoin
+182,CLAMClams,CLAM,MClams
+183,NEUNeuCoin,NEU,NeuCoin
+184,BTGBitgem,BTG,Bitgem
+185,SCOTScotcoin,SCOT,Scotcoin
+186,FAIRFairCoin,FAIR,FairCoin
+187,SWARMSwarm,SWARM,Swarm
+188,ARCHARCHcoin,ARCH,ARCHcoin
