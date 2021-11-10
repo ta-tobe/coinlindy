@@ -2,6 +2,8 @@ import pandas as pd
 
 # from dash import Dash, dcc, html, Input, Output  # pip install dash (version 2.0.0 or higher)
 import dash
+import dash_html_components as html
+
 import dash_bootstrap_components as dbc
 
 
